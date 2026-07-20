@@ -1,7 +1,4 @@
-# robots.txt for https://kedolik.com
-
 User-agent: *
 Allow: /
 
-# Sitemap
 Sitemap: https://kedolik.com/sitemap.xml
