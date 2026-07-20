@@ -1,0 +1,1433 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Fluxco",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.webp",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.webp",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.webp",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.webp",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.webp",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.webp",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portofolio",
+            "screenshot": "screenshots\/portofolio.webp",
+            "source": "templates\/portofolio.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/portofolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.webp",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ's",
+            "screenshot": "screenshots\/faq-s.webp",
+            "source": "templates\/faq-s.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.webp",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/error-404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.webp",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Metform",
+            "screenshot": "screenshots\/newsletter-metform.webp",
+            "source": "templates\/newsletter-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/newsletter-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Metform",
+            "screenshot": "screenshots\/contact-metform.webp",
+            "source": "templates\/contact-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/contact-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.webp",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.webp",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/fluxco\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.3.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.9",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.25.9",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.36",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.5.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "15-14.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/15-14-800x467.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 36763,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "1-6.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/1-6-800x780.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 14206,
+            "dimensions": [
+                1196,
+                1166
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "2-37.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/2-37-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 73587,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "3-44.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/3-44-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 94636,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "4-35.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/4-35-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 66279,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "5-42.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/5-42-800x480.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 82435,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "1-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/1-1-800x146.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 9088,
+            "dimensions": [
+                917,
+                167
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-213-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/logoipsum-213-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 5684,
+            "dimensions": [
+                550,
+                146
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-216-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/logoipsum-216-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 5195,
+            "dimensions": [
+                558,
+                142
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-217-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/logoipsum-217-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 6493,
+            "dimensions": [
+                517,
+                133
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-218-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/logoipsum-218-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 6048,
+            "dimensions": [
+                583,
+                125
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "1-3.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/1-3-800x200.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8323,
+            "dimensions": [
+                1600,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "2-2.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/2-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 5706,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "6.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/6.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 10760,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "3-2.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/3-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 8149,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "4-4.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/4-4.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 14296,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "1-7.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/1-7-800x114.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4890,
+            "dimensions": [
+                1556,
+                221
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "8-2.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/8-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5449,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "7.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/7-800x155.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2832,
+            "dimensions": [
+                865,
+                168
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "9-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/9-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 10301,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "6-1-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/6-1-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 130058,
+            "dimensions": [
+                635,
+                769
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "10-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/10-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11585,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "11-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/11-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14305,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "48.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/48-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 129645,
+            "dimensions": [
+                1633,
+                1633
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "18-12.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/18-12-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 65174,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "17.webp.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/17.webp.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 89478,
+            "dimensions": [
+                571,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "40.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/40.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17421,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "41.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/41.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 7418,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "42.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/42.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6636,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "19-11.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/19-11-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                }
+            ],
+            "filesize": 131697,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "36-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/36-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 6727,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "13.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/13.webp",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 7974,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "12.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/12.webp",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 7160,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "14-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/14-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 8699,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "12-24.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/12-24-800x320.webp",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 55793,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "20-10.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/20-10-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 126641,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "21-8.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/21-8-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                }
+            ],
+            "filesize": 83302,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "22-14.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/22-14-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                }
+            ],
+            "filesize": 94346,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "23-20.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/23-20-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 67350,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "24-25.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/24-25-800x320.webp",
+            "templates": [
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                }
+            ],
+            "filesize": 57632,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "25-22.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/25-22-800x320.webp",
+            "templates": [
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                }
+            ],
+            "filesize": 84891,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "26-17.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/26-17-800x320.webp",
+            "templates": [
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                }
+            ],
+            "filesize": 66013,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "27-14.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/27-14-800x320.webp",
+            "templates": [
+                {
+                    "source": "templates\/portofolio.json",
+                    "name": "Portofolio"
+                }
+            ],
+            "filesize": 72589,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "34-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/34-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 6894,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "35.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/35.webp",
+            "templates": [
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 17668,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "39.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/39.webp",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 8880,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "38.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/38.webp",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 13795,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "37.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/37.webp",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 6659,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "36.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/36.webp",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 15245,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EN4F8VK9MZ"
+        },
+        {
+            "filename": "3-1.webp",
+            "thumbnail_url": "https:\/\/kitpro.site\/fluxco\/wp-content\/uploads\/sites\/292\/2024\/11\/3-1-800x238.webp",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 49644,
+            "dimensions": [
+                2198,
+                655
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}

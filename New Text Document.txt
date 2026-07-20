@@ -1,0 +1,15 @@
+author - 70kb
+kedolikdex - 55 kb
+kedolikswap - 212 kb
+privacy- policy - 92 kb
+whitepaper - 139 kb
+wp-admin - 8kb
+wp-content - 281 mb
+wp-includes - 41.8 mb
+index.html - 452 kb
+
+blocks - 1 mb
+css - 3.97 mb
+fonts - 283 kb
+images - 210 kb
+js - 36 mb
