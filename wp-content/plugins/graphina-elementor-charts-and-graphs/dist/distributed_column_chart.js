@@ -1,2 +1,0 @@
-import{G as n}from"./GraphinaApexChartBase.js";class s extends n{constructor(){super(),this.observer={}}setUpChartsHandler(){this.chartHandlers={distributed_column:t=>this.observeChartElement(t,"distributed_column")}}getChartOptions(t,r,h,a){return r==="distributed_column"&&(t.chart.type="bar",t.chart.events={mounted:(o,c)=>{const e=document.querySelector(`.graphina-elementor-chart[data-element_id="${a}"]`);e&&(e.style.height="")}}),t}}window.graphinaDistributeColumnChart=new s;
-//# sourceMappingURL=distributed_column_chart.js.map
