@@ -1,2 +1,0 @@
-import{G as s}from"./GraphinaApexChartBase.js";class h extends s{constructor(){super(),this.observer={}}setUpChartsHandler(){this.chartHandlers={bubble:e=>this.observeChartElement(e,"bubble")}}getChartOptions(e,r,b,a){return r==="bubble"&&(e.xaxis.categories=[],e.chart.events={mounted:(o,c)=>{const t=document.querySelector(`.graphina-elementor-chart[data-element_id="${a}"]`);t&&(t.style.height="")}}),e}}window.graphinaBubbleChart=new h;
-//# sourceMappingURL=bubble.js.map
